@@ -21,3 +21,4 @@ python -W ignore .\loader_main.py
 `nlp_report_final.pdf` file contains the information related to problem setup, dataset generation, analysis and model discussion, results, and model success/failures for improvement. 
 
 ## Feedback Info
+![feedback text](https://github.com/Anshita1Saxena/Word-Sense-Disambiguation/blob/main/images/img.png)
