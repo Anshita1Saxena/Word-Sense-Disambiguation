@@ -13,9 +13,11 @@ Files like pull_sentences.py and sentence_sense_data.py were used for the creati
 ## Experiment File Information:-
 `results_log_file.txt` contains the accuracy of all the model experiments, which is generated once we run the code. It contains 78 experiments done on 4 models with different parameter settings.
 
-## Collective Information
-`nlp_report_final.pdf` file contains the information related to problem setup, dataset generation, analysis and model discussion, results, and model success/failures for improvement. 
-
 To run this code-script, the command is given below:-
 
 python -W ignore .\loader_main.py
+
+## Collective Information
+`nlp_report_final.pdf` file contains the information related to problem setup, dataset generation, analysis and model discussion, results, and model success/failures for improvement. 
+
+## Feedback Info
