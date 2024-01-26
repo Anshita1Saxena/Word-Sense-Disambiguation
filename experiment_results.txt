@@ -1,0 +1,78 @@
+Dev Most Frequent Accuracy without any settings: 0.6752577319587629
+Dev Most Frequent Accuracy with lemmatization: 0.6752577319587629
+Dev Most Frequent Accuracy with lemmatization and stopwords: 0.6752577319587629
+Dev Most Frequent Accuracy with lemmatize and punctuation: 0.6752577319587629
+Dev Most Frequent Accuracy with stopwords: 0.6752577319587629
+Dev Most Frequent Accuracy with punctuation: 0.6752577319587629
+Dev Most Frequent Accuracy with stopwords and punctuation: 0.6752577319587629
+Dev Most Frequent Accuracy with lemmatize, stopwords and punctuation: 0.6752577319587629
+Test Most Frequent Accuracy without any settings: 0.623448275862069
+Test Most Frequent Accuracy with lemmatization: 0.623448275862069
+Test Most Frequent Accuracy with lemmatization and stopwords: 0.623448275862069
+Test Most Frequent Accuracy with lemmatize and punctuation: 0.623448275862069
+Test Most Frequent Accuracy with stopwords: 0.623448275862069
+Test Most Frequent Accuracy with punctuation: 0.623448275862069
+Test Most Frequent Accuracy with stopwords and punctuation: 0.623448275862069
+Test Most Frequent Accuracy with lemmatize, stopwords and punctuation: 0.623448275862069
+Dev Lesk Frequent Accuracy without any settings: 0.3711340206185567
+Dev Lesk Frequent Accuracy with lemmatization: 0.37628865979381443
+Dev Lesk Frequent Accuracy with lemmatization and stopwords: 0.3556701030927835
+Dev Lesk Frequent Accuracy with lemmatize and punctuation: 0.37628865979381443
+Dev Lesk Frequent Accuracy with stopwords: 0.3865979381443299
+Dev Lesk Frequent Accuracy with punctuation: 0.3865979381443299
+Dev Lesk Frequent Accuracy with stopwords and punctuation: 0.3865979381443299
+Dev Lesk Frequent Accuracy with lemmatize, stopwords and punctuation: 0.3556701030927835
+Dev Lesk Frequent Accuracy with lemmatization: 0.3820689655172414
+Test Lesk Frequent Accuracy without any settings: 0.38413793103448274
+Test Lesk Frequent Accuracy with stopwords: 0.3317241379310345
+Test Lesk Frequent Accuracy with punctuation: 0.3317241379310345
+Test Lesk Frequent Accuracy with stopwords and punctuation: 0.3317241379310345
+Dev Custom Word Accuracy without any settings with word intersection: 0.4175257731958763
+Dev Custom Word Accuracy without any settings with word intersection: 0.4175257731958763
+Dev Custom Word Accuracy without any settings with cosine similarity: 0.5154639175257731
+Dev Custom Word Accuracy without any settings with cosine similarity: 0.5154639175257731
+Dev Custom Word Accuracy with all settings with word intersection: 0.6443298969072165
+Dev Custom Word Accuracy with all settings with word intersection: 0.6443298969072165
+Dev Custom Word Accuracy with all settings with cosine similarity: 0.4948453608247423
+Dev Custom Word Accuracy with all settings with cosine similarity: 0.4948453608247423
+Test Custom Word Accuracy with all settings with word intersection: 0.576551724137931
+Bootstrapping Word for word 'sense' Accuracy with all settings, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.8181818181818182]
+Bootstrapping Word for word 'sense' Accuracy with all settings, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9090909090909091]
+Bootstrapping Word for word 'sense' Accuracy with all settings, with 5 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9090909090909091]
+Bootstrapping Word for word 'sense' Accuracy with all settings, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9090909090909091, 0.5]
+Bootstrapping Word for word 'sense' Accuracy without preprocessing, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'sense' Accuracy without preprocessing, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'sense' Accuracy without preprocessing, with 5 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'sense' Accuracy without preprocessing, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364, 1.0]
+Bootstrapping Word for word 'time' Accuracy with all settings, with 7 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.5454545454545454]
+Bootstrapping Word for word 'time' Accuracy with all settings, with 8 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.5454545454545454]
+Bootstrapping Word for word 'time' Accuracy with all settings, with 9 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.5454545454545454]
+Bootstrapping Word for word 'time' Accuracy with all settings, with 8 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.5454545454545454, 0.3333333333333333]
+Bootstrapping Word for word 'time' Accuracy without preprocessing, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.5454545454545454]
+Bootstrapping Word for word 'time' Accuracy without preprocessing, with 5 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'time' Accuracy without preprocessing, with 6 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'time' Accuracy without preprocessing, with 5 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6363636363636364, 0.6666666666666666]
+Bootstrapping Word for word 'level' Accuracy with all settings, with 2 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'level' Accuracy with all settings, with 3 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.7272727272727273]
+Bootstrapping Word for word 'level' Accuracy with all settings, with 4 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.7272727272727273]
+Bootstrapping Word for word 'level' Accuracy with all settings, with 3 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.7272727272727273, 0.5]
+Bootstrapping Word for word 'level' Accuracy without preprocessing, with 2 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.6363636363636364]
+Bootstrapping Word for word 'level' Accuracy without preprocessing, with 3 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.7272727272727273]
+Bootstrapping Word for word 'level' Accuracy without preprocessing, with 4 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.7272727272727273]
+Bootstrapping Word for word 'level' Accuracy without preprocessing, with 3 iterations and confidence = 0.7[dev accuracy, test accuracy]: [0.7272727272727273, 0.5]
+Bootstrapping Word for word 'life' Accuracy with all settings, with 1 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9]
+Bootstrapping Word for word 'life' Accuracy with all settings, with 2 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9]
+Bootstrapping Word for word 'life' Accuracy with all settings, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9]
+Bootstrapping Word for word 'life' Accuracy with all settings, with 2 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9, 0.8888888888888888]
+Bootstrapping Word for word 'life' Accuracy without preprocessing, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.8]
+Bootstrapping Word for word 'life' Accuracy without preprocessing, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9]
+Bootstrapping Word for word 'life' Accuracy without preprocessing, with 5 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9]
+Bootstrapping Word for word 'life' Accuracy without preprocessing, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.9, 1.0]
+Bootstrapping Word for word 'deal' Accuracy with all settings, with 1 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6]
+Bootstrapping Word for word 'deal' Accuracy with all settings, with 2 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.7]
+Bootstrapping Word for word 'deal' Accuracy with all settings, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6]
+Bootstrapping Word for word 'deal' Accuracy with all settings, with 2 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.7, 0.75]
+Bootstrapping Word for word 'deal' Accuracy without preprocessing, with 2 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.6]
+Bootstrapping Word for word 'deal' Accuracy without preprocessing, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.7]
+Bootstrapping Word for word 'deal' Accuracy without preprocessing, with 4 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.7]
+Bootstrapping Word for word 'deal' Accuracy without preprocessing, with 3 iterations and confidence = 0.9[dev accuracy, test accuracy]: [0.7, 0.5]
